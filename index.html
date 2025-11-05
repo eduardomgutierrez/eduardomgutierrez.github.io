@@ -9,7 +9,7 @@
     <!-- Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     
     <!-- Styles -->
     <link rel="stylesheet" href="assets/css/minimal.css">
@@ -24,10 +24,9 @@
         <div class="nav-container">
             <a href="#home" class="nav-logo">Eduardo M. Gutiérrez</a>
             <ul class="nav-menu" id="nav-menu">
-                <li><a href="#about" class="nav-link">About</a></li>
+                <li><a href="#about" class="nav-link">About Me</a></li>
                 <li><a href="#research" class="nav-link">Research</a></li>
-                <li><a href="#cv" class="nav-link">CV</a></li>
-                <li><a href="#talks" class="nav-link">Talks</a></li>
+                <!-- Removed Talks link for minimal version -->
                 <li><a href="#contact" class="nav-link">Contact</a></li>
             </ul>
             <button class="nav-toggle" id="nav-toggle">
@@ -39,58 +38,81 @@
     <!-- Hero Section -->
     <section id="home" class="hero">
         <div class="container">
-            <h1>Eduardo M. Gutiérrez</h1>
-            <p class="hero-subtitle">Theoretical Astrophysicist</p>
+            <div class="hero-content">
+                <img src="images/eduardo.jpg" alt="Eduardo M. Gutiérrez" class="hero-avatar" />
+                <h1>Eduardo M. Gutiérrez</h1>
+            </div>
+            <p class="hero-position">Postdoctoral Fellow</p>
+            <p class="hero-subtitle">Institute for Gravitation and the Cosmos, </br>
+              Penn State University</p>
             <p class="hero-description">
-                Postdoctoral Fellow at the Institute for Gravitation and the Cosmos, Penn State University. 
-                Exploring the most energetic phenomena in the Universe, particularly those occurring near black holes and neutron stars.
+                I investigate the most energetic phenomena in the Universe, particularly those occurring in the vicinity of black holes and neutron stars.
             </p>
             <div class="hero-buttons">
-                <a href="#about" class="btn btn-primary">About Me</a>
-                <a href="#research" class="btn btn-secondary">My Research</a>
+                <a href="#about" class="btn btn-secondary">About Me</a>
+                <a href="#research" class="btn btn-primary">My Research</a>
+                <a href="#contact" class="btn btn-secondary">Contact</a>
             </div>
         </div>
     </section>
 
     <!-- About Section -->
     <section id="about" class="section">
-        <div class="container">
-            <h2>About Me</h2>
-            <img src="images/eduardo.jpg" alt="Eduardo M. Gutiérrez" class="profile-image">
-            <p>
-                I am a theoretical astrophysicist from La Plata, Argentina, with an interest in the most energetic phenomena in the Universe, particularly those occurring in the vicinity of black holes and neutron stars. My journey in astronomy began as a child when I would spend long hours at night looking at the stars with my father and our binoculars.
-            </p>
-            <p>
-                I was fortunate to live close to the National University of La Plata, one of only three institutions that teach Astronomy in Argentina. I started my undergraduate studies in 2011 and graduated in 2017 with a Master's thesis about the potential effects of primordial black holes in early cosmic evolution.
-            </p>
-            <p>
-                In 2022, I obtained my PhD degree under the supervision of Prof. Gustavo E. Romero with a thesis on radiation from accreting black holes. I am currently a Postdoctoral Fellow at the Institute for Gravitation and the Cosmos at Pennsylvania State University, where I work in Prof. David Radice's group on simulating neutron star mergers and investigating the high-energy emission produced after these events.
-            </p>
-        </div>
-    </section>
+  <div class="container">
+    <h2>About Me</h2>
+
+    <div class="about-layout">
+      <div class="about-gallery about-gallery--stack">
+        <img src="images/edu1.jpg" alt="Eduardo M. Gutiérrez 1" class="about-photo" />
+        <img src="images/edu2.jpg" alt="Eduardo M. Gutiérrez 2" class="about-photo" />
+        <img src="images/edu3.jpg" alt="Eduardo M. Gutiérrez 3" class="about-photo" />
+      </div>
+
+      <div class="about-text">
+        <p>
+          I am a theoretical astrophysicist from Argentina fascinated by the most energetic phenomena in the Universe, especially those that occur in the extreme environments surrounding compact objects. My passion for astronomy began in childhood, when I would spend countless nights with my father, looking at the stars through our binoculars.
+        </p>
+        <p>
+          I was fortunate to live very close to the Universidad Nacional de La Plata, one of only three institutions that teach Astronomy in Argentina. I started my undergraduate studies in 2011 and graduated in 2017 with a Master's thesis about the potential effects of primordial black holes in early cosmic evolution.
+        </p>
+        <p>
+          In 2022, I earned my PhD working at the Instituto Argentino de Radioastronomía under the supervision of Prof. Gustavo E. Romero, focusing on radiation from accreting black holes. My research explored scenarios in which nonthermal particles generate high-energy emission in these extreme environments. During my doctoral studies, I spent six months at the Rochester Institute of Technology, where I worked with Prof. Manuela Campanelli on simulating the electromagnetic radiation produced by accreting supermassive black hole binaries.
+
+          I am currently a Postdoctoral Scholar at the Institute for Gravitation and the Cosmos at The Pennsylvania State University. In collaboration with Prof. David Radice and his group, I simulate neutron star mergers and study the multimessenger signals arising from these explosive events.
+        </p>
+
+      </div>
+    </div>
+  </div>
+</section>
 
     <!-- Research Section -->
     <section id="research" class="section">
         <div class="container">
-            <h2>My Research</h2>
+            <h3>My Research</h3>
+            <div class="about-text">
             <p>
-                I am passionate about black holes and compact objects in general. My research interests involve several aspects of these intriguing objects and their relationships with their closest environment. My work tries to understand some of the phenomena that occur in the vicinity of accreting black holes.
+                My research combines analytical theory with large-scale numerical simulations, in particular, general-relativistic Magnetohydrodynamic (GRMHD) simulations, to study some of the extreme phenomena that take place in the vicinity of compact objects. These include accretion flows onto single and binary black holes, relativistic jets, and binary neutron star mergers. I aim to understand how these systems produce high-energy multimessenger radiation, including electromagnetic waves across the spectrum, gravitational waves, and neutrinos.
             </p>
             <p>
                 <a href="https://ui.adsabs.harvard.edu/user/libraries/1yl_XFgVQjqM5FUf1ne4LQ" target="_blank">View my ADS publication library →</a>
             </p>
+            <p>
+                <a \bf href="https://drive.google.com/file/d/1A3h91np4rn0NGOR7CKUIZL0bnC1eF4SE/view" target="_blank">View my CV →</a>
+            </p>
+            </div>
             
             <div class="research-grid">
                 <div class="research-card">
-                    <img src="images/raytracing.jpg" alt="Binary Black Holes">
+                    <img src="images/raytracing.jpg" alt="Black Hole Binaries">
                     <div class="research-card-content">
-                        <h3><a href="SMBBHs.html">Supermassive Binary Black Holes</a></h3>
+                        <h3><a href="SMBBHs.html">Supermassive Black Hole Binary</a></h3>
                         <p>How can we identify the presence of two supermassive black holes orbiting each other through electromagnetic emission? What are the specific electromagnetic signatures one could expect to observe from these systems?</p>
                     </div>
                 </div>
                 
                 <div class="research-card">
-                    <img src="images/bns.png" alt="Binary Neutron Stars">
+                    <img src="images/bns.png" alt="Binary Neutron Star Mergers">
                     <div class="research-card-content">
                         <h3><a href="bns.html">Binary Neutron Star Mergers</a></h3>
                         <p>What happens when two neutron stars merge? How do magnetic fields evolve? What are the main multimessenger signals from these events?</p>
@@ -98,9 +120,9 @@
                 </div>
                 
                 <div class="research-card">
-                    <img src="images/riaf_cartoon.png" alt="Hot Accretion Flows">
+                    <img src="images/riaf_cartoon.png" alt="Nonthermal Processes in Hot Accretion Flows">
                     <div class="research-card-content">
-                        <h3><a href="riaf.html">Hot Accretion Flows</a></h3>
+                        <h3><a href="riaf.html">Nonthermal Processes in Hot Accretion Flows</a></h3>
                         <p>What role do nonthermal particles play in hot accretion flows? How do they influence the immediate vicinity of accreting black holes?</p>
                     </div>
                 </div>
@@ -116,36 +138,6 @@
         </div>
     </section>
 
-    <!-- CV Section -->
-    <section id="cv" class="section">
-        <div class="container">
-            <h2>Curriculum Vitae</h2>
-            <p>
-                <a href="https://drive.google.com/file/d/1lZjaX5ifvgdIapQ15LfqY963dZziD1k0/view?usp=sharing" target="_blank" class="btn btn-primary">
-                    <i class="fas fa-download"></i> Download CV (PDF)
-                </a>
-            </p>
-        </div>
-    </section>
-
-    <!-- Talks Section -->
-    <section id="talks" class="section">
-        <div class="container">
-            <h2>Talks</h2>
-            
-            <h3>Electromagnetic signatures from supermassive binary black holes approaching merger</h3>
-            <p><em>LISA Astrophysics Working Group meeting (June 2021, Virtual)</em></p>
-            
-            <div class="video-container">
-                <iframe src="https://www.youtube.com/embed/YEA-Dt7ggLw" title="LISA Astrophysics Working Group Talk" allowfullscreen></iframe>
-            </div>
-            
-            <p>
-                <strong>Abstract:</strong> Theoretical models predict that when two galaxies merge, the supermassive black holes at their nuclei might end up forming close binary systems of sub-parsec scales. The gravitational waves emitted by these systems are targets of current Pulsar Timing Arrays and of future interferometers as LISA (Laser Interferometer Space Antenna). Unlike most stellar-mass black hole mergers, supermassive black hole binaries (SMBHBs) live and die in gas-rich environments (the cores of galaxies) and they can present similar phenomenology to single AGNs; namely, accretion disks, jets and the subsequent multi-wavelength emission. A detailed knowledge of the main radiation signatures from these systems is crucial to differentiate them from normal AGNs and to identify potential targets for multi-messenger observations. In this talk, I present new theoretical predictions of the electromagnetic emission from close SMBBHs. Using data from GRMHD simulations of these systems, we produce realistic ray traced images, spectra, and lightcurves at different wavelengths. We explore the influence of the black hole spin, accretion rate, and line-of-sight inclination on these products and identify specific features that may discriminate SMBHBs from normal AGNs.
-            </p>
-        </div>
-    </section>
-
     <!-- Contact Section -->
     <section id="contact" class="section">
         <div class="container">
@@ -157,16 +149,10 @@
                         <i class="fas fa-envelope"></i>
                     </div>
                     <h4>Email</h4>
-                    <p><a href="mailto:egutierrezposse@gmail.com">egutierrezposse@gmail.com</a></p>
+                    <p><a href="mailto:emgutierrez@psu.edu">emgutierrez@psu.edu</a></p>
                 </div>
                 
-                <div class="contact-item">
-                    <div class="contact-icon">
-                        <i class="fas fa-phone"></i>
-                    </div>
-                    <h4>Phone</h4>
-                    <p>+54 9 221 3190430</p>
-                </div>
+                <!-- Removed Phone item for minimal version -->
                 
                 <div class="contact-item">
                     <div class="contact-icon">
@@ -174,9 +160,8 @@
                     </div>
                     <h4>Work Address</h4>
                     <p>
-                        <a href="https://www.iar.unlp.edu.ar/" target="_blank">Instituto Argentino de Radioastronomía</a><br>
-                        Camino Gral. Belgrano Km 40<br>
-                        Berazategui, Bs. As., Argentina 1884
+                        <a href="https://igc.psu.edu/" target="_blank">Institute for Gravitation and the Cosmos, Penn State University</a><br>
+                        University Park, PA 16802-6300
                     </p>
                 </div>
             </div>
