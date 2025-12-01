@@ -1,11 +1,12 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: I use semi-analytical models and large-scale numerical simulations, in particular, general-relativistic Magnetohydrodynamic (GRMHD) simulations, to study some of the extreme phenomena that take place in the vicinity of compact objects. These include accretion flows onto single and binary black holes, relativistic jets, and binary neutron star mergers. I aim to understand how these systems produce high-energy multimessenger radiation, including electromagnetic waves across the spectrum, gravitational waves, and neutrinos.
+
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+#display_categories: [work, fun]
 horizontal: false
 ---
 

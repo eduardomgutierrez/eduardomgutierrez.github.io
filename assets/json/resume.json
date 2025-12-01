@@ -1,114 +1,61 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Eduardo M. Gutiérrez",
+    "title": "PhD in Astronomy",
+    "position":"Postdoctoral Researcher at the Institute for Gravitation and the Cosmos, The Pennsylvania State University",
+    "image": "eduardo.jpg",
+    "email": "emgutierrez@psu.edu",
+    "summary": "I investigate the most energetic phenomena in the Universe, particularly those occurring in the vicinity of black holes and neutron stars.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "301B Whitmore Laboratory",
+      "postalCode": "PA 16802",
+      "city": "University Park",
       "countryCode": "US",
-      "region": "California"
+      "region": "Pennsylvania"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
       }
     ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Institute for Gravitation and the Cosmos, The Pennsylvania State University",
+      "position": "Postdoctoral Researcher",
+      "startDate": "2022",
+      "endDate": "-"
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Universidad Nacional de La Plata",
+      "location": "La Plata, Argentina",
+      "url": "https://www.unlp.edu.ar/",
+      "area": "Astronomy",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
+      "startDate": "2017-04-01"
+      "endDate": "2022-10-11",
       "score": "10",
-      "courses": ["Theory of Relativity"]
+      "courses": ["Black Hole Astrophysics", "Magnetohydrodynamics", "Computational Astrophysics", "Quantum Field Theory"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Institute for Gravitation and the Cosmos Fellowship",
+      "date": "2022",
+      "awarder": "Institute for Gravitation and the Cosmos, The Pennsylvania State University"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "2016 Distinguished Graduate Award (Astronomy)",
+      "date": "2017",
+      "awarder": "Universidad Nacional de La Plata",
+      "summary": "The Distinguished Graduate Award is given to the best graduate of the year in recognition of their academic excellence."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Joaquín V. González Award",
+      "date": "2017",
+      "awarder": "La Plata city Government",
+      "summary": "The Joaquín V. González Award is given to the best graduates of the year in recognition of their academic excellence."
     }
   ],
   "publications": [

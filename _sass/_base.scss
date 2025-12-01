@@ -179,10 +179,11 @@ ul.task-list input[type="checkbox"] {
 
   .card-title {
     color: var(--global-text-color);
+    font-size: 1.2rem;
   }
 
   .card-body {
-    padding: 1.25rem 1.25rem 1.25rem 1.25rem;
+    padding: 0.75rem 1rem 0.75rem 1rem;
   }
 }
 
@@ -436,7 +437,6 @@ ul.task-list input[type="checkbox"] {
       }
 
       i::before {
-        color: var(--global-text-color);
         transition-property: all 0.2s ease-in-out;
       }
 
@@ -444,7 +444,7 @@ ul.task-list input[type="checkbox"] {
         text-decoration: none;
 
         i::before {
-          color: var(--global-theme-color);
+          opacity: 0.7;
         }
       }
     }
@@ -488,12 +488,12 @@ ul.task-list input[type="checkbox"] {
 // Footer
 footer.fixed-bottom {
   background-color: var(--global-footer-bg-color);
-  font-size: 0.75rem;
+  font-size: 0.65rem;
 
   .container {
     color: var(--global-footer-text-color);
-    padding-top: 9px;
-    padding-bottom: 8px;
+    padding-top: 5px;
+    padding-bottom: 5px;
     text-align: center;
   }
 
@@ -678,22 +678,30 @@ footer.sticky-bottom {
 .projects {
   a {
     text-decoration: none;
-
-    &:hover {
-      .card-title {
-        color: var(--global-theme-color);
-      }
-    }
   }
 
   .card {
     img {
       width: 100%;
     }
+
+    .card-text {
+      display: none;
+    }
   }
 
   .col {
     padding-bottom: 1rem;
+
+    &:hover {
+      .card-title {
+        color: var(--global-theme-color);
+      }
+
+      .card-text {
+        display: block;
+      }
+    }
   }
 
   .grid-sizer,
