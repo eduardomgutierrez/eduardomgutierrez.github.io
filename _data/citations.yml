@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-19'
+  last_updated: '2026-01-19'
 papers:
   NhOfZCAAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -42,7 +42,7 @@ papers:
     title: 'Numerical relativity simulations of compact binaries: Comparison of cell-and vertex-centered adaptive meshes'
     year: '2025'
   NhOfZCAAAAAJ:LkGwnXOMwfcC:
-    citations: 65
+    citations: 66
     title: Electromagnetic signatures from supermassive binary black holes approaching merger
     year: '2022'
   NhOfZCAAAAAJ:MXK_kJrjxJIC:
@@ -66,7 +66,7 @@ papers:
     title: Radiation from accreting supermassive binary black holes approaching merger
     year: '2024'
   NhOfZCAAAAAJ:UeHWp8X0CEIC:
-    citations: 33
+    citations: 36
     title: Upgraded antennas for pulsar observations in the Argentine Institute of Radio astronomy
     year: '2020'
   NhOfZCAAAAAJ:UebtZRa9Y70C:
@@ -118,7 +118,7 @@ papers:
     title: 'Nonthermal processes in hot accretion flows onto supermassive black holes: An inhomogeneous model'
     year: '2021'
   NhOfZCAAAAAJ:hqOjcs7Dif8C:
-    citations: 20
+    citations: 21
     title: First results of the glitching pulsar monitoring programme at the Argentine Institute of Radioastronomy
     year: '2023'
   NhOfZCAAAAAJ:kNdYIx-mwKoC:
@@ -138,7 +138,7 @@ papers:
     title: "Detecci\xF3n de un glitch en PSR J1048-5832 desde el IAR"
     year: '2022'
   NhOfZCAAAAAJ:u-x6o8ySG0sC:
-    citations: 10
+    citations: 9
     title: Primordial black hole evolution in two-fluid cosmology
     year: '2018'
   NhOfZCAAAAAJ:u5HHmVD_uO8C:
