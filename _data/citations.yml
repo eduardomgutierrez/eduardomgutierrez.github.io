@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-16'
+  last_updated: '2026-02-23'
 papers:
   NhOfZCAAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -13,10 +13,6 @@ papers:
     citations: 2
     title: Accretion onto supermassive black hole binaries
     year: '2025'
-  NhOfZCAAAAAJ:4DMP91E08xMC:
-    citations: 0
-    title: "Estudio de alta precisi\xF3n del p\xFAlsar J0437\u20144715 desde el Instituto Argentino de Radioastronom\xEDa"
-    year: Unknown Year
   NhOfZCAAAAAJ:5nxA0vEk-isC:
     citations: 0
     title: "Radiaci\xF3n de agujeros negros acretantes: problemas micro-y macrof\xEDsicos"
@@ -126,7 +122,7 @@ papers:
     title: First results of the glitching pulsar monitoring programme at the Argentine Institute of Radioastronomy
     year: '2023'
   NhOfZCAAAAAJ:kNdYIx-mwKoC:
-    citations: 12
+    citations: 13
     title: Non-thermal radiation from dual jet interactions in supermassive black hole binaries
     year: '2024'
   NhOfZCAAAAAJ:mVmsd5A6BfQC:
