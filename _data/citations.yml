@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-10'
+  last_updated: '2026-04-13'
 papers:
   NhOfZCAAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -46,7 +46,7 @@ papers:
     title: Electromagnetic signatures from supermassive binary black holes approaching merger
     year: '2022'
   NhOfZCAAAAAJ:MXK_kJrjxJIC:
-    citations: 18
+    citations: 19
     title: General relativistic magnetohydrodynamical simulations of accretion flows through traversable wormholes
     year: '2024'
   NhOfZCAAAAAJ:QIV2ME_5wuYC:
@@ -66,7 +66,7 @@ papers:
     title: Radiation from accreting supermassive binary black holes approaching merger
     year: '2024'
   NhOfZCAAAAAJ:UeHWp8X0CEIC:
-    citations: 39
+    citations: 40
     title: Upgraded antennas for pulsar observations in the Argentine Institute of Radio astronomy
     year: '2020'
   NhOfZCAAAAAJ:UebtZRa9Y70C:
@@ -78,7 +78,7 @@ papers:
     title: A new Glitch in the Vela Pulsar (PSR B0833-45/PSR J0835-4510)
     year: '2021'
   NhOfZCAAAAAJ:Y0pCki6q_DkC:
-    citations: 12
+    citations: 13
     title: "PSR J0437-4715: The Argentine Institute of Radioastronomy 2019\u20132020 Observational Campaign"
     year: '2021'
   NhOfZCAAAAAJ:YOwf2qJgpHMC:
