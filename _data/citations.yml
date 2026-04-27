@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-27'
 papers:
   NhOfZCAAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -42,11 +42,11 @@ papers:
     title: Turbulent Dynamo Action in Binary Neutron Star Mergers
     year: '2026'
   NhOfZCAAAAAJ:LkGwnXOMwfcC:
-    citations: 73
+    citations: 74
     title: Electromagnetic signatures from supermassive binary black holes approaching merger
     year: '2022'
   NhOfZCAAAAAJ:MXK_kJrjxJIC:
-    citations: 19
+    citations: 18
     title: General relativistic magnetohydrodynamical simulations of accretion flows through traversable wormholes
     year: '2024'
   NhOfZCAAAAAJ:QIV2ME_5wuYC:
@@ -74,7 +74,7 @@ papers:
     title: Confirmation of glitch event observed in PSR J0742-2822 at the Argentine Institute of Radioastronomy (IAR)
     year: '2022'
   NhOfZCAAAAAJ:WF5omc3nYNoC:
-    citations: 10
+    citations: 11
     title: A new Glitch in the Vela Pulsar (PSR B0833-45/PSR J0835-4510)
     year: '2021'
   NhOfZCAAAAAJ:Y0pCki6q_DkC:
