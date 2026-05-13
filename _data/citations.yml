@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-13'
 papers:
   NhOfZCAAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -30,7 +30,7 @@ papers:
     title: Radiation from spinning supermassive black hole binaries close to merger.
     year: '2023'
   NhOfZCAAAAAJ:IjCSPb-OGe4C:
-    citations: 16
+    citations: 17
     title: A nonthermal bomb explains the near-infrared superflare of Sgr A
     year: '2020'
   NhOfZCAAAAAJ:KlAtU1dfN6UC:
@@ -66,7 +66,7 @@ papers:
     title: Radiation from accreting supermassive binary black holes approaching merger
     year: '2024'
   NhOfZCAAAAAJ:UeHWp8X0CEIC:
-    citations: 40
+    citations: 41
     title: Upgraded antennas for pulsar observations in the Argentine Institute of Radio astronomy
     year: '2020'
   NhOfZCAAAAAJ:UebtZRa9Y70C:
@@ -118,7 +118,7 @@ papers:
     title: 'Magnetic Field Configurations in Binary Neutron Star Mergers II: Inspiral, Merger and Ejecta'
     year: '2025'
   NhOfZCAAAAAJ:eQOLeE2rZwMC:
-    citations: 29
+    citations: 30
     title: 'Nonthermal processes in hot accretion flows onto supermassive black holes: An inhomogeneous model'
     year: '2021'
   NhOfZCAAAAAJ:hqOjcs7Dif8C:
