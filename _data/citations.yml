@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-08'
 papers:
   NhOfZCAAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -34,7 +34,7 @@ papers:
     title: A nonthermal bomb explains the near-infrared superflare of Sgr A
     year: '2020'
   NhOfZCAAAAAJ:KlAtU1dfN6UC:
-    citations: 4
+    citations: 5
     title: 'Numerical relativity simulations of compact binaries: Comparison of cell-and vertex-centered adaptive meshes'
     year: '2025'
   NhOfZCAAAAAJ:L8Ckcad2t8MC:
@@ -42,11 +42,11 @@ papers:
     title: Turbulent Dynamo Action in Binary Neutron Star Mergers
     year: '2026'
   NhOfZCAAAAAJ:LkGwnXOMwfcC:
-    citations: 77
+    citations: 78
     title: Electromagnetic signatures from supermassive binary black holes approaching merger
     year: '2022'
   NhOfZCAAAAAJ:MXK_kJrjxJIC:
-    citations: 18
+    citations: 20
     title: General relativistic magnetohydrodynamical simulations of accretion flows through traversable wormholes
     year: '2024'
   NhOfZCAAAAAJ:QIV2ME_5wuYC:
@@ -66,7 +66,7 @@ papers:
     title: Radiation from accreting supermassive binary black holes approaching merger
     year: '2024'
   NhOfZCAAAAAJ:UeHWp8X0CEIC:
-    citations: 42
+    citations: 44
     title: Upgraded antennas for pulsar observations in the Argentine Institute of Radio astronomy
     year: '2020'
   NhOfZCAAAAAJ:UebtZRa9Y70C:
@@ -74,7 +74,7 @@ papers:
     title: Confirmation of glitch event observed in PSR J0742-2822 at the Argentine Institute of Radioastronomy (IAR)
     year: '2022'
   NhOfZCAAAAAJ:WF5omc3nYNoC:
-    citations: 11
+    citations: 10
     title: A new Glitch in the Vela Pulsar (PSR B0833-45/PSR J0835-4510)
     year: '2021'
   NhOfZCAAAAAJ:Y0pCki6q_DkC:
@@ -82,7 +82,7 @@ papers:
     title: "PSR J0437-4715: The Argentine Institute of Radioastronomy 2019\u20132020 Observational Campaign"
     year: '2021'
   NhOfZCAAAAAJ:YOwf2qJgpHMC:
-    citations: 12
+    citations: 11
     title: Cocoon shock breakout emission from binary neutron star mergers
     year: '2025'
   NhOfZCAAAAAJ:YsMSGLbcyi4C:
@@ -122,7 +122,7 @@ papers:
     title: 'Nonthermal processes in hot accretion flows onto supermassive black holes: An inhomogeneous model'
     year: '2021'
   NhOfZCAAAAAJ:hqOjcs7Dif8C:
-    citations: 23
+    citations: 24
     title: First results of the glitching pulsar monitoring programme at the Argentine Institute of Radioastronomy
     year: '2023'
   NhOfZCAAAAAJ:kNdYIx-mwKoC:
