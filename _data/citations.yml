@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-26'
 papers:
   NhOfZCAAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -46,7 +46,7 @@ papers:
     title: Turbulent Dynamo Action in Binary Neutron Star Mergers
     year: '2026'
   NhOfZCAAAAAJ:LkGwnXOMwfcC:
-    citations: 82
+    citations: 83
     title: Electromagnetic signatures from supermassive binary black holes approaching merger
     year: '2022'
   NhOfZCAAAAAJ:MXK_kJrjxJIC:
@@ -62,7 +62,7 @@ papers:
     title: "Estudio de alta precisi\xF3n del p\xFAlsar J0437-4715 desde el Instituto Argentino de Radioastronom\xEDa"
     year: '2021'
   NhOfZCAAAAAJ:Tyk-4Ss8FVUC:
-    citations: 19
+    citations: 20
     title: The origin of matter at the base of relativistic jets in active galactic nuclei
     year: '2020'
   NhOfZCAAAAAJ:ULOm3_A8WrAC:
@@ -98,7 +98,7 @@ papers:
     title: 'GR-Athena++: Binary Neutron Star Merger Simulations with Neutrino Transport'
     year: '2026'
   NhOfZCAAAAAJ:Zph67rFs4hoC:
-    citations: 9
+    citations: 10
     title: A Parameter Study of the Electromagnetic Signatures of an Analytical Mini-disk Model for Supermassive Black Hole Binary Systems
     year: '2025'
   NhOfZCAAAAAJ:_FxGoFyzp5QC:
