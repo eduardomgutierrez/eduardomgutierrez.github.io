@@ -54,6 +54,11 @@
 
 .paper-figure {
   margin-top: 1.25rem;
+  margin-bottom: 1.5rem;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
 
   figure {
     margin-bottom: 0.5rem;
