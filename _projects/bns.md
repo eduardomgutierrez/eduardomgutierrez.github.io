@@ -29,12 +29,8 @@ related_publications: true
     <p class="caption">(a) Temperature in the orbital plane at merger, with a zoom into the shear layer between the stars and its velocity field. (b) Magnetic field strength at t ≃ 0.25 ms, as Kelvin-Helmholtz vortices develop along the shear layer. (c) The turbulent remnant at t ≃ 1.5 ms, with successive zoom-ins. (d) 3D volume rendering of the magnetic field strength.</p>
   </div>
   <p>Resolving this dynamo requires extremely fine grids. We ran a series of simulations with grid spacings down to a few meters, and found that the magnetic energy grows by about five orders of magnitude within roughly 2 ms of merger at the highest resolutions, where large-scale coherent structures also begin to emerge. This suggests that strong and ordered magnetic fields may be present shortly after merger, with consequences for the electromagnetic and gravitational-wave signals of the remnant.</p>
-  <div class="row paper-figure">
-    <div class="col-md-7">
-      {% include figure.liquid path="assets/img/dynamo_overview.jpg" class="img-fluid rounded z-depth-1" %}
-      <p class="caption">Density, temperature and magnetic field strength in the orbital plane from the initial data (t ≃ 0 ms) through merger (t ≃ 19 ms).</p>
-    </div>
-    <div class="col-md-5 mt-3 mt-md-0">
+  <div class="row justify-content-center paper-figure">
+    <div class="col-md-5">
       {% include figure.liquid path="assets/img/dynamo_amplification.png" class="img-fluid rounded z-depth-1" %}
       <p class="caption">Growth of the magnetic field strength (top) and magnetic energy (bottom) for grid spacings from 92 m down to 2.9 m.</p>
     </div>
