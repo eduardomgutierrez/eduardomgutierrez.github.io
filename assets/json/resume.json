@@ -42,10 +42,7 @@
       "startDate": "2017-04-01",
       "endDate": "2022-10-11",
       "score": "10/10",
-      "courses": [
-        "Thesis: Radiation from accreting black holes: micro- and macrophysical processes",
-        "Advisor: Prof. Gustavo E. Romero"
-      ]
+      "courses": ["Thesis: Radiation from accreting black holes: micro- and macrophysical processes", "Advisor: Prof. Gustavo E. Romero"]
     },
     {
       "institution": "Universidad Nacional de La Plata",
@@ -55,10 +52,7 @@
       "studyType": "Licenciado (equiv. to M.Sc.)",
       "endDate": "2017",
       "score": "9.79/10",
-      "courses": [
-        "Thesis: Cosmology with primordial black holes",
-        "Advisor: Prof. Gustavo E. Romero"
-      ]
+      "courses": ["Thesis: Cosmology with primordial black holes", "Advisor: Prof. Gustavo E. Romero"]
     }
   ],
   "awards": [

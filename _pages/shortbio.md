@@ -25,7 +25,7 @@ profile:
 
 <div style="text-align:justify;">
 
-I became interested in astronomy in my early childhood, when I used to spend countless nights observing the sky with my father, who has always been an amateur astronomer. Many years later, I started my undergraduate studies in Astronomy at the Universidad Nacional de La Plata, which I completed in 2017 with a thesis on the potential influence of primordial black holes on early cosmic evolution. 
+I became interested in astronomy in my early childhood, when I used to spend countless nights observing the sky with my father, who has always been an amateur astronomer. Many years later, I started my undergraduate studies in Astronomy at the Universidad Nacional de La Plata, which I completed in 2017 with a thesis on the potential influence of primordial black holes on early cosmic evolution.
 <br>
 <br>
 I pursued my PhD at the Instituto Argentino de Radioastronomía under the supervision of Prof. Gustavo E. Romero, earning my degree in 2022 with a dissertation on radiation from accreting black holes, with a focus on high-energy emission from nonthermal particle populations. During my doctoral work, I spent six months at the Rochester Institute of Technology, collaborating with Prof. Manuela Campanelli's group on simulations of electromagnetic signatures from accreting supermassive black hole binaries.
