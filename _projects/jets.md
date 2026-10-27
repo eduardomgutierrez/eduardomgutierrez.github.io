@@ -24,7 +24,7 @@ The broadband spectral energy distribution (SED) of relativistic jets encodes in
 <p>
 In {% cite RomeroGutierrez2020Univ....6...99R %}, I investigated the origin of matter at the base of relativistic jets in AGN. We analyzed various mechanisms through which jets can be loaded with leptons and baryons, including processes occurring in the hot accretion flow surrounding the black hole. Understanding jet composition is crucial because it determines the jet's dynamics, stability, and ultimately its radiative properties.
 <br><br>
-With my master student, Tomás Mazzei, we are currently finishing a work on a multizone modeling of M87 and Centaurus A accretion/jet systems, explaining the high-resolution radio observations of these sources on different spatial scales, with a special focus on the latest Event Horizon Telescope observations.
+In {% cite Gutierrez_etal2026arXiv261026434G %}, together with my master's student Tomás Mazzei and Santiago del Palacio, we modeled the broadband emission of M87 across spatial scales, motivated by the Event Horizon Telescope multi-wavelength campaigns, which showed that single-zone models cannot reproduce the source. We combined a radiatively inefficient accretion flow with winds and a new multizone jet model that starts magnetically dominated, following the injection, advection, and cooling of nonthermal electrons along the jet, and compared each radio flux with the jet emission within the aperture matched to the angular scale of the observation. We found that the compact 230 GHz emission is produced by the accretion flow rather than the jet, whereas the jet dominates the lower-frequency radio, optical/UV, and X-ray emission, but cannot account for the observed γ-rays.
 </p>
 
 <div class="row justify-content-center">

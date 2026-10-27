@@ -28,6 +28,10 @@ Understanding the physics of these mergers, from the inspiral dynamics to the po
 <p>
 In {% cite Gutierrez_etal2025arXiv250618995G %} and {% cite Cook_etal2025arXiv250819342C %}, we performed a systematic study of how different magnetic field configurations evolve in the post-merger remnant and surrounding accretion disk. By performing high-resolution GRMHD simulations with various initial field geometries, we identified how the magnetic field topology affects the disk structure and outflows.
 <br>
+In {% cite Gutierrez_etal2026arXiv260120953G %}, we studied how weak, pulsar-like magnetic fields are amplified during the merger. Our GRMHD simulations show a fast turbulent small-scale dynamo and, at the highest resolutions, the emergence of large-scale coherent structures, suggesting that strong and ordered magnetic fields may be present shortly after merger, with consequences for the electromagnetic and gravitational-wave signals of the remnant.
+<br>
+I also contribute to the development of the next generation of numerical relativity codes for these simulations, including binary neutron star mergers with neutrino transport in GR-Athena++ {% cite 2026PhRvD.114d4062D %}, the comparison of cell- and vertex-centered adaptive meshes {% cite 2025PhRvD.112j3006D %}, and Boltzmann radiation transport on dynamical spacetimes in AthenaK {% cite 2026arXiv260822020Z %}.
+<br>
 In {% cite Gutierrez_etal2025PhRvD.111f3031G %}, I investigated a novel electromagnetic precursor to the main kilonova emission: the cocoon shock breakout signal. I developed a theoretical framework to predict the properties of this early-time emission, which could serve as an important target for follow-up observations of future BNS merger events.
 </p>
 

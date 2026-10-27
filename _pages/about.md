@@ -2,15 +2,15 @@
 layout: about
 title: home
 permalink: /
-subtitle: <b> Postdoctoral Scholar | Institute for Gravitation and the Cosmos | The Pennsylvania State University </b>
+subtitle: <b> Postdoctoral Researcher | Max Planck Institute for Gravitational Physics (Albert Einstein Institute) </b>
 
 profile:
   align: right
   image: eduardo.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>301B Whitmore Lab</p>
-    <p>University Park, PA 16802</p>
+    <p>Am Mühlenberg 1</p>
+    <p>14476 Potsdam, Germany</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
