@@ -3,7 +3,7 @@ layout: page
 title: Relativistic Jets from AGNs
 description: What properties of relativistic jets can we infer through broadband SED modeling?
 img: assets/img/m87_map_43ghz.png
-importance: 3
+importance: 4
 category: work
 related_publications: true
 ---

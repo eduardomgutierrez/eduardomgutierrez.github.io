@@ -3,7 +3,7 @@ layout: page
 title: Radiation from Accreting Supermassive Black Hole Binaries
 description: How can we identify the presence of two supermassive black holes orbiting each other through their electromagnetic emission?
 img: assets/img/2shadows.png
-importance: 1
+importance: 2
 category: work
 related_publications: true
 ---

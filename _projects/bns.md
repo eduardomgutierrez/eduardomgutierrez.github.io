@@ -3,7 +3,7 @@ layout: page
 title: Binary neutron star mergers
 description: What happens when two neutron stars merge? How do the magnetic fields amplify and evolve? What are the main multimessenger signals from these events?
 img: assets/img/bns.png
-importance: 2
+importance: 1
 category: work
 related_publications: true
 ---

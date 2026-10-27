@@ -1,0 +1,73 @@
+---
+layout: default
+---
+<div class="post home">
+  <section class="home-hero">
+    <div class="hero-text">
+      {% if page.eyebrow %}
+        <p class="hero-eyebrow">{{ page.eyebrow }}</p>
+      {% endif %}
+      <h1 class="hero-name">
+        {{ site.first_name }}
+        {{ site.middle_name }}
+        {{ site.last_name }}
+      </h1>
+      <p class="hero-role">
+        <strong>{{ page.role }}</strong>
+        {{ page.affiliation }}
+      </p>
+      <div class="hero-bio">{{ content }}</div>
+      <ul class="hero-links">
+        {% for link in page.links %}
+          <li>
+            <a
+              href="{{ link.url | relative_url }}"
+              {% if link.url contains '://' %}
+                target="_blank" rel="noopener noreferrer"
+              {% endif %}
+            >
+              {%- if link.icon %}<i class="{{ link.icon }}"></i>{% endif -%}
+              {{- link.name -}}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="hero-photo">
+      {%
+        include figure.liquid loading="eager" path=page.photo class="img-fluid" sizes="260px" alt=page.title
+        cache_bust=true
+      %}
+      {% if page.place %}
+        <p class="hero-place">{{ page.place }}</p>
+      {% endif %}
+    </div>
+  </section>
+
+  <h2 class="section-label"><a href="{{ '/projects/' | relative_url }}">Research</a></h2>
+  <div class="home-research">
+    {% assign sorted_projects = site.projects | sort: 'importance' %}
+    {% for project in sorted_projects %}
+      <a href="{{ project.url | relative_url }}">
+        {% include figure.liquid path=project.img class="img-fluid" sizes="250px" alt=project.title %}
+        <p class="home-research-title">{{ project.title }}</p>
+      </a>
+    {% endfor %}
+  </div>
+
+  {% if page.news %}
+    <h2 class="section-label">News</h2>
+    <ul class="home-news">
+      {% for item in page.news %}
+        <li>
+          <time>{{ item.date }}</time>
+          <span>{{ item.text | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+  <h2 class="section-label"><a href="{{ '/publications/' | relative_url }}">Selected publications</a></h2>
+  {% include selected_papers.liquid %}
+  <p class="home-more"><a href="{{ '/publications/' | relative_url }}">All publications →</a></p>
+</div>
