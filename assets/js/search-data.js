@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/shortbio/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
