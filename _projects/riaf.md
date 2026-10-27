@@ -3,7 +3,7 @@ layout: page
 title: Nonthermal processes in hot accretion flows
 description: What role do nonthermal particles play in hot accretion flows?
 img: assets/img/riaf_cartoon.png
-importance: 1
+importance: 3
 category: work
 related_publications: true
 ---
