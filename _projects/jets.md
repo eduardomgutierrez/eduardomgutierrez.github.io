@@ -24,10 +24,12 @@ related_publications: true
 <h2 class="research-papers-heading">Papers</h2>
 
 <section class="paper-block">
-  <p class="paper-meta">arXiv preprint · 2026</p>
+  <p class="paper-meta">Submitted · arXiv:2610.26434 · 2026</p>
   <h3 class="paper-title">The accretion flow and jet of M87 across spatial scales</h3>
-  <p>In {% cite Gutierrez_etal2026arXiv261026434G %}, together with my master's student Tomás Mazzei and Santiago del Palacio, we modeled the broadband emission of M87 across spatial scales, motivated by the Event Horizon Telescope multi-wavelength campaigns, which showed that single-zone models cannot reproduce the source. We combined a radiatively inefficient accretion flow with winds and a new multizone jet model that starts magnetically dominated, following the injection, advection, and cooling of nonthermal electrons along the jet, and compared each radio flux with the jet emission within the aperture matched to the angular scale of the observation.</p>
-  <p>We found that the compact 230 GHz emission is produced by the accretion flow rather than the jet, whereas the jet dominates the lower-frequency radio, optical/UV, and X-ray emission, but cannot account for the observed γ-rays.</p>
+  <p>In {% cite Gutierrez_etal2026arXiv261026434G %}, together with my master's student Tomás Mazzei and Santiago del Palacio, we modeled the broadband emission of M87 across spatial scales. The Event Horizon Telescope multi-wavelength campaigns showed that a single emission zone cannot reproduce the source, so we combined a thermal radiatively inefficient accretion flow (RIAF) with winds and a new multizone jet model that starts magnetically dominated, with continuous injection, advection, and cooling of nonthermal electrons and synchrotron self-absorption along the jet.</p>
+  <p>Instead of fitting the total jet emission, we integrated it only up to the height that matches the effective aperture of each instrument, from 7.3 to 3.5×10<sup>5</sup> gravitational radii, and compared it with the flux measured at that angular scale in the 2017 EHT multi-wavelength campaign. We also computed synthetic 43 GHz maps and spectral-index maps between 22, 43 and 86 GHz.</p>
+  <p>We found that the compact 230 GHz emission seen by the EHT is produced by the accretion flow rather than the jet, with an accretion rate at the horizon of about 10<sup>-5</sup> of the Eddington rate, consistent with EHT polarimetry. The jet dominates the lower-frequency radio, optical/UV, and X-ray emission, but cannot account for the observed γ-rays. The two jets carry roughly a quarter of the accretion power, about 10<sup>43</sup> erg s<sup>-1</sup> each.</p>
+  <p>The model codes, data, and scripts that reproduce every figure and number of the paper are available in a <a href="https://github.com/eduardomgutierrez/m87-riaf-jet-repro" target="_blank" rel="noopener noreferrer">public reproduction package</a>.</p>
   <div class="paper-figure">
     {% include figure.liquid path="assets/img/jet_sed.jpg" class="img-fluid rounded z-depth-1" %}
     <p class="caption">Spectral energy distribution modeling of the M87 jet.</p>
