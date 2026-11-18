@@ -16,7 +16,7 @@ related_publications: true
 <h2 class="research-papers-heading">Papers</h2>
 
 <section class="paper-block">
-  <p class="paper-meta">Submitted · arXiv:2610.26434 · 2026</p>
+  <p class="paper-meta">Mon. Not. R. Astron. Soc. (accepted) · 2026</p>
   <h3 class="paper-title">The accretion flow and jet of M87 across spatial scales</h3>
   <p>In {% cite Gutierrez_etal2026arXiv261026434G %}, together with my master's student Tomás Mazzei and Santiago del Palacio, we modeled the broadband emission of M87 across spatial scales. The Event Horizon Telescope multi-wavelength campaigns showed that a single emission zone cannot reproduce the source, so we combined a thermal radiatively inefficient accretion flow (RIAF) with winds and a new multizone jet model that starts magnetically dominated, with continuous injection, advection, and cooling of nonthermal electrons and synchrotron self-absorption along the jet.</p>
   <div class="paper-figure">
