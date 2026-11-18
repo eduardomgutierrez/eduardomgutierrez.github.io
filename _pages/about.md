@@ -33,6 +33,8 @@ links:
     url: https://github.com/eduardomgutierrez
 
 news:
+  - date: Nov 2026
+    text: Our paper on the [accretion flow and jet of M87 across spatial scales](https://arxiv.org/abs/2610.26434) was accepted for publication in MNRAS.
   - date: Oct 2026
     text: Joined the Max Planck Institute for Gravitational Physics (Albert Einstein Institute) in Potsdam as a postdoctoral researcher.
   - date: Oct 2026
